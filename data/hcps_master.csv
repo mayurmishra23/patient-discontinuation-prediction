@@ -1,0 +1,121 @@
+site_id,site_type,specialty_bucket,years_experience,center_of_excellence_flag,key_opinion_leader_flag,hcp_event_participation_last_12mo,historical_discontinuation_rate_12mo,field_region_bucket
+SITE_0001,Community Clinic,Neurology-like,18,0,0,2,0.471,Region_A
+SITE_0002,Long-term Care,Pediatric specialty,27,0,0,0,0.362,Region_B
+SITE_0003,Community Clinic,Neurology-like,8,0,0,2,0.23,Region_C
+SITE_0004,Long-term Care,General practice,1,0,0,2,0.186,Region_A
+SITE_0005,Specialty Center,General practice,9,1,1,3,0.05,Region_A
+SITE_0006,Hospital System,Neurology-like,14,0,0,1,0.513,Region_C
+SITE_0007,Hospital System,Pediatric specialty,25,0,0,4,0.341,Region_D
+SITE_0008,Community Clinic,General practice,13,0,0,3,0.431,Region_D
+SITE_0009,Community Clinic,Other Complex Care,18,0,0,2,0.28,Region_C
+SITE_0010,Hospital System,Neurology-like,3,0,0,4,0.268,Region_A
+SITE_0011,Hospital System,Neurology-like,4,0,0,1,0.506,Region_B
+SITE_0012,Specialty Center,General practice,29,1,1,1,0.486,Region_D
+SITE_0013,Community Clinic,Other Complex Care,1,0,0,1,0.246,Region_B
+SITE_0014,Community Clinic,Neurology-like,27,1,1,0,0.498,Region_C
+SITE_0015,Community Clinic,Neurology-like,18,0,0,3,0.398,Region_B
+SITE_0016,Specialty Center,General practice,12,1,1,3,0.079,Region_A
+SITE_0017,Community Clinic,General practice,2,0,0,1,0.422,Region_A
+SITE_0018,Hospital System,Neurology-like,6,0,0,2,0.356,Region_C
+SITE_0019,Specialty Center,General practice,6,1,1,1,0.291,Region_D
+SITE_0020,Community Clinic,General practice,23,0,0,2,0.561,Region_A
+SITE_0021,Hospital System,Pediatric specialty,17,0,0,2,0.499,Region_D
+SITE_0022,Specialty Center,Neurology-like,10,1,1,1,0.233,Region_D
+SITE_0023,Community Clinic,Neurology-like,28,0,0,1,0.42,Region_A
+SITE_0024,Hospital System,Neurology-like,20,0,0,3,0.165,Region_D
+SITE_0025,Specialty Center,General practice,12,1,1,2,0.371,Region_B
+SITE_0026,Community Clinic,Neurology-like,19,0,0,3,0.419,Region_C
+SITE_0027,Hospital System,Neurology-like,21,0,0,1,0.436,Region_A
+SITE_0028,Long-term Care,Neurology-like,3,0,0,1,0.209,Region_A
+SITE_0029,Hospital System,Neurology-like,16,0,0,3,0.189,Region_C
+SITE_0030,Hospital System,Neurology-like,9,0,0,2,0.422,Region_B
+SITE_0031,Community Clinic,Neurology-like,27,0,0,0,0.378,Region_D
+SITE_0032,Hospital System,Pediatric specialty,21,0,0,4,0.435,Region_B
+SITE_0033,Community Clinic,General practice,26,0,0,3,0.34,Region_C
+SITE_0034,Hospital System,Neurology-like,17,0,0,0,0.348,Region_C
+SITE_0035,Community Clinic,Neurology-like,11,0,0,1,0.221,Region_C
+SITE_0036,Specialty Center,Neurology-like,1,1,1,3,0.39,Region_A
+SITE_0037,Long-term Care,Pediatric specialty,27,0,1,1,0.55,Region_C
+SITE_0038,Community Clinic,Other Complex Care,14,0,0,0,0.321,Region_C
+SITE_0039,Hospital System,Other Complex Care,3,0,0,2,0.458,Region_B
+SITE_0040,Community Clinic,Neurology-like,23,1,1,3,0.162,Region_A
+SITE_0041,Hospital System,Neurology-like,29,1,1,1,0.491,Region_D
+SITE_0042,Community Clinic,General practice,4,0,0,3,0.4,Region_C
+SITE_0043,Hospital System,Other Complex Care,10,0,0,2,0.276,Region_A
+SITE_0044,Community Clinic,Pediatric specialty,29,0,0,2,0.473,Region_B
+SITE_0045,Hospital System,General practice,22,0,0,1,0.481,Region_A
+SITE_0046,Long-term Care,General practice,16,0,0,3,0.252,Region_C
+SITE_0047,Community Clinic,General practice,21,0,0,3,0.292,Region_C
+SITE_0048,Specialty Center,General practice,14,1,1,4,0.221,Region_D
+SITE_0049,Community Clinic,Neurology-like,7,0,0,2,0.384,Region_A
+SITE_0050,Long-term Care,Neurology-like,10,0,0,1,0.595,Region_D
+SITE_0051,Community Clinic,Neurology-like,10,0,0,1,0.516,Region_C
+SITE_0052,Community Clinic,Neurology-like,10,0,0,1,0.341,Region_A
+SITE_0053,Hospital System,Other Complex Care,5,0,0,3,0.154,Region_A
+SITE_0054,Hospital System,Neurology-like,9,0,0,0,0.446,Region_A
+SITE_0055,Community Clinic,General practice,13,0,0,3,0.397,Region_D
+SITE_0056,Community Clinic,Neurology-like,3,0,0,5,0.228,Region_A
+SITE_0057,Community Clinic,Neurology-like,5,0,0,1,0.472,Region_A
+SITE_0058,Long-term Care,Neurology-like,23,0,0,4,0.589,Region_C
+SITE_0059,Hospital System,Neurology-like,6,0,0,2,0.313,Region_B
+SITE_0060,Hospital System,Pediatric specialty,28,0,0,1,0.328,Region_D
+SITE_0061,Specialty Center,Pediatric specialty,16,1,1,4,0.358,Region_D
+SITE_0062,Hospital System,Neurology-like,4,0,0,4,0.2,Region_A
+SITE_0063,Community Clinic,General practice,6,0,0,0,0.256,Region_A
+SITE_0064,Community Clinic,Neurology-like,19,1,1,2,0.192,Region_D
+SITE_0065,Hospital System,Neurology-like,23,0,1,6,0.416,Region_D
+SITE_0066,Community Clinic,Neurology-like,15,0,0,0,0.302,Region_C
+SITE_0067,Specialty Center,Neurology-like,15,1,1,3,0.15,Region_B
+SITE_0068,Specialty Center,Neurology-like,5,1,1,3,0.336,Region_A
+SITE_0069,Specialty Center,Other Complex Care,20,1,1,0,0.433,Region_B
+SITE_0070,Hospital System,General practice,19,0,0,3,0.425,Region_B
+SITE_0071,Specialty Center,Neurology-like,13,1,1,0,0.391,Region_B
+SITE_0072,Community Clinic,Neurology-like,6,0,0,6,0.493,Region_A
+SITE_0073,Community Clinic,Neurology-like,26,0,0,2,0.226,Region_B
+SITE_0074,Hospital System,Pediatric specialty,15,0,0,4,0.288,Region_B
+SITE_0075,Long-term Care,Neurology-like,24,1,1,1,0.256,Region_C
+SITE_0076,Hospital System,Pediatric specialty,6,0,0,2,0.402,Region_C
+SITE_0077,Community Clinic,Other Complex Care,25,0,1,5,0.268,Region_B
+SITE_0078,Community Clinic,Neurology-like,12,0,0,1,0.322,Region_C
+SITE_0079,Community Clinic,General practice,27,0,0,2,0.597,Region_D
+SITE_0080,Community Clinic,Pediatric specialty,22,0,1,0,0.399,Region_A
+SITE_0081,Community Clinic,General practice,3,0,0,0,0.469,Region_B
+SITE_0082,Community Clinic,Neurology-like,17,0,0,1,0.58,Region_B
+SITE_0083,Community Clinic,General practice,10,0,0,3,0.314,Region_C
+SITE_0084,Long-term Care,Other Complex Care,20,0,0,2,0.334,Region_A
+SITE_0085,Long-term Care,General practice,3,0,0,1,0.357,Region_B
+SITE_0086,Hospital System,Neurology-like,19,1,1,3,0.129,Region_C
+SITE_0087,Hospital System,General practice,11,0,0,1,0.31,Region_A
+SITE_0088,Long-term Care,General practice,5,0,0,3,0.39,Region_D
+SITE_0089,Specialty Center,General practice,4,1,1,0,0.275,Region_C
+SITE_0090,Hospital System,Neurology-like,5,0,0,3,0.259,Region_C
+SITE_0091,Specialty Center,Other Complex Care,9,1,1,3,0.214,Region_C
+SITE_0092,Specialty Center,Other Complex Care,8,1,1,2,0.354,Region_B
+SITE_0093,Community Clinic,Neurology-like,11,0,0,3,0.518,Region_D
+SITE_0094,Specialty Center,Pediatric specialty,27,1,1,1,0.352,Region_B
+SITE_0095,Community Clinic,Neurology-like,17,0,0,2,0.318,Region_C
+SITE_0096,Hospital System,Other Complex Care,3,0,0,1,0.501,Region_D
+SITE_0097,Long-term Care,General practice,8,0,0,1,0.323,Region_A
+SITE_0098,Long-term Care,General practice,25,0,1,3,0.47,Region_A
+SITE_0099,Community Clinic,General practice,11,0,0,2,0.295,Region_A
+SITE_0100,Hospital System,Neurology-like,9,0,0,5,0.523,Region_D
+SITE_0101,Community Clinic,Neurology-like,30,0,0,1,0.546,Region_A
+SITE_0102,Community Clinic,Neurology-like,5,0,0,4,0.352,Region_C
+SITE_0103,Specialty Center,Pediatric specialty,1,1,1,3,0.29,Region_B
+SITE_0104,Community Clinic,Neurology-like,21,0,1,2,0.365,Region_C
+SITE_0105,Hospital System,General practice,18,0,0,2,0.467,Region_B
+SITE_0106,Long-term Care,Pediatric specialty,24,0,0,3,0.413,Region_C
+SITE_0107,Specialty Center,Neurology-like,21,1,1,2,0.358,Region_C
+SITE_0108,Long-term Care,Neurology-like,29,1,1,2,0.13,Region_C
+SITE_0109,Community Clinic,General practice,30,0,0,0,0.394,Region_C
+SITE_0110,Community Clinic,General practice,26,0,1,2,0.425,Region_D
+SITE_0111,Hospital System,General practice,17,0,0,1,0.397,Region_A
+SITE_0112,Community Clinic,Neurology-like,18,0,0,2,0.562,Region_B
+SITE_0113,Hospital System,General practice,17,0,0,2,0.359,Region_A
+SITE_0114,Hospital System,Neurology-like,11,0,0,2,0.321,Region_B
+SITE_0115,Specialty Center,General practice,23,1,1,1,0.505,Region_C
+SITE_0116,Specialty Center,Pediatric specialty,19,1,1,4,0.28,Region_D
+SITE_0117,Community Clinic,Neurology-like,1,0,0,2,0.442,Region_C
+SITE_0118,Community Clinic,Pediatric specialty,3,0,0,4,0.388,Region_A
+SITE_0119,Hospital System,General practice,21,0,1,2,0.496,Region_D
+SITE_0120,Community Clinic,Neurology-like,16,1,1,3,0.168,Region_D
